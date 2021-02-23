@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "Hilmy Blog"
+  left:
+    - text: "Beranda"
+      href: index.html
+    - text: "Matriks"
+      href: program.html
+    - text: "Tentang"
+      href: tentang.html

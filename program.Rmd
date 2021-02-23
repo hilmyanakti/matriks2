@@ -1,0 +1,15 @@
+---
+title: "Matriks"
+author: "Muhammad Hilmy Ghilmany"
+date: "2/15/2021"
+output: html_document
+---
+
+Matriks adalah kumpulan bilangan yang disusun secara baris atau kolom atau kedua-duanya dan di dalam suatu tanda kurung. Bilangan-bilangan yang membentuk suatu matriks disebut sebagai elemen-elemen matriks. Matriks digunakan untuk menyederhanakan penyampaian data, sehingga mudah untuk diolah.
+
+Berikut adalah contoh dari matriks ber ordo 2x2
+```{r}
+m2=matrix(c(10,20,30,40),ncol=2)
+m2
+```
+
